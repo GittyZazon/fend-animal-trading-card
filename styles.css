@@ -1,0 +1,48 @@
+body {
+	position: absolute;
+	top: 10%;
+	left: 35%;
+	width: 340px;
+	border: 1px solid #d3d3d3;
+	border-radius: 10px;
+	color: white;
+	box-shadow: 5px 5px 15px #c0c0c0;
+	box-sizing: border-box;
+}
+
+.space {
+	padding: 8px;
+	background: linear-gradient(to bottom right, red,  #efa700);
+	background-clip: border-box;
+	border-radius: 10px;
+}
+
+.lionspic {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 20px;
+}
+
+.funfact {
+	font-style: italic;
+}
+
+.bullets {
+	list-style-type: none;
+	padding: 0;
+}
+
+.list-title {
+	font-weight: bold;
+}
+
+#infobord {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid #d3d3d3;
+	border-radius: 15px;
+	box-sizing: border-box;
+	width: 95%;
+}
